@@ -12,7 +12,7 @@ package day_11_to_20;
 public class TimeAndSpace {
 
 	public static void main(String[] args) {
-		
+		System.out.println("hello World");
 
 	}
 
