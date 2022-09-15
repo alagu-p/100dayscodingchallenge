@@ -1,3 +1,3 @@
-# 100dayscodingchallenge
+# 100days coding challenge
 
 #day 1 to 10
