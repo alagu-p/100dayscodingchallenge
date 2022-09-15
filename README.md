@@ -1,3 +1,6 @@
 # 100days coding challenge
 
-#day 1 to 10
+| FirstName     | LastName      | City     |
+| ------------- | ------------- | -------- |
+| John          | Test1         | NewYork  |
+| Bob           | Test2         | Toronto  |
