@@ -1,6 +1,6 @@
 # 100days coding challenge
 
-####Day 1 to 10
+##Day 1 to 10
 
 | Day           | Date          | Topic     | Link          |
 | ------------- | ------------- | --------- | ------------- |
